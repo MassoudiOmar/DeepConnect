@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="496" viewBox="0 0 360 496">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1000 1400">
+      <image width="1000" height="1400" xlink:href="Groupe%201407-image.jpg"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1659 1840">
+      <image width="1659" height="1840" xlink:href="Groupe%201407-image2.png"/>
+    </pattern>
+  </defs>
+  <g id="Groupe_1407" data-name="Groupe 1407" transform="translate(-43 -191)">
+    <rect id="card-bg" width="360" height="496" rx="24" transform="translate(43 191)" fill="#650a11"/>
+    <path id="Intersection_4" data-name="Intersection 4" d="M109,607a24,24,0,0,1-24-24V135a24,24,0,0,1,24-24H421a24,24,0,0,1,24,24V583a24,24,0,0,1-24,24Z" transform="translate(-42 80)" opacity="0.08" fill="url(#pattern)" style="mix-blend-mode: overlay;isolation: isolate"/>
+    <path id="Intersection_6" data-name="Intersection 6" d="M771,1000a24,24,0,0,1-24-24V528a24,24,0,0,1,24-24h312a24,24,0,0,1,24,24V976a24,24,0,0,1-24,24Z" transform="translate(-704 -313)" fill="url(#pattern-2)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+    <text id="_" data-name="?" transform="translate(215 502)" fill="#f4cfb9" font-size="190" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="-40.867" y="0">?</tspan></text>
+    <g id="card-positive" transform="translate(67 218)" fill="none" stroke="#f4cfb9" stroke-width="3">
+      <rect width="312" height="448" rx="24" stroke="none"/>
+      <rect x="1.5" y="1.5" width="309" height="445" rx="22.5" fill="none"/>
+    </g>
+  </g>
+</svg>
